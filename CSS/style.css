@@ -1,11 +1,11 @@
+
+/* Section One */
 #imgg{
     background-color: white;
     margin-right: auto;
     margin-left: auto;
     display: block;
 }
-
-
 
 #logoG {
     width: 100%;
@@ -15,6 +15,7 @@
     margin-left: auto;
 }
 
+/* Section Two */
 #arama{
     width: 90%;
     height: 90px;
@@ -34,6 +35,7 @@
     border-width: 1px;
 }
 
+/* Section Three */
 #alt{
     margin: auto;
     width: 90%;
@@ -70,6 +72,8 @@
     margin-right: auto;
 } */
 
+
+/* Section Footer */
 .footer{
     background-color: white;
 
